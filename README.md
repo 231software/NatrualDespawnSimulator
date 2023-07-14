@@ -1,0 +1,2 @@
+# NatrualDespawnSimulator
+模拟BDS的自然刷新清除，不会伤害玩家养的牲畜宠物村民等
